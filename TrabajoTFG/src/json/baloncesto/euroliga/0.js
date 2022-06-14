@@ -1,0 +1,90 @@
+[{
+    "detail": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/D0TsCzFUoPo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "main_thumbnail": "https://i.ytimg.com/vi/D0TsCzFUoPo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAH7j2OcQigBoNQuhxMU_jHUX9SoA",
+    "thumbnail_canal": "https://yt3.ggpht.com/ytc/AKedOLRnUn8mciJLCAFwIvtX3Yf3pq47iwjNDQkG4hOGKQ=s68-c-k-c0x00ffffff-no-rj",
+    "title": "Tibor Pleiss | Season Highlights | 2021-22 Turkish Airlines EuroLeague",
+    "slider": "1",
+    "canalPrincipalQuery": "euroliga",
+    "canalPrincipal": "Euroliga",
+    "visualizaciones": "1.509 visualizaciones",
+    "direccion": "0",
+    "index": "0"
+},
+    {
+        "detail": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cgZtXb-S3yQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "main_thumbnail": "https://i.ytimg.com/vi/cgZtXb-S3yQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXiG14svRBumIPvSA7NHMonN4nPw",
+        "thumbnail_canal": "https://yt3.ggpht.com/ytc/AKedOLRnUn8mciJLCAFwIvtX3Yf3pq47iwjNDQkG4hOGKQ=s68-c-k-c0x00ffffff-no-rj",
+        "title": "The greatest team ever? 🎥 In The paint",
+        "slider": "1",
+        "canalPrincipalQuery": "euroliga",
+        "canalPrincipal": "Euroliga",
+        "visualizaciones": "1.332 visualizaciones",
+        "direccion": "0",
+        "index": "1"
+    }, {
+    "detail": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sPDf9QxPI6c\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "main_thumbnail": "https://i.ytimg.com/vi/sPDf9QxPI6c/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVUNoNMJgWG2oqeYoAgwKvWxi7tQ",
+    "thumbnail_canal": "https://yt3.ggpht.com/ytc/AKedOLRnUn8mciJLCAFwIvtX3Yf3pq47iwjNDQkG4hOGKQ=s68-c-k-c0x00ffffff-no-rj",
+    "title": "Nikola Djurisic | MVP | 2022 Euroleague Basketball Adidas Next Generation Tournament",
+    "slider": "0",
+    "canalPrincipalQuery": "euroliga",
+    "canalPrincipal": "Euroliga",
+    "visualizaciones": "3.357 visualizaciones",
+    "direccion": "0",
+    "index": "2"
+}, {
+    "detail": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Zwt2-bvXYuk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "main_thumbnail": "https://i.ytimg.com/vi/Zwt2-bvXYuk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSt6nvnS5ovcjcb0pBVhxz00Yzng",
+    "thumbnail_canal": "https://yt3.ggpht.com/ytc/AKedOLRnUn8mciJLCAFwIvtX3Yf3pq47iwjNDQkG4hOGKQ=s68-c-k-c0x00ffffff-no-rj",
+    "title": "Efes is Champion again! | Championship Game, Highlights | Turkish Airlines EuroLeague",
+    "slider": "0",
+    "canalPrincipalQuery": "euroliga",
+    "canalPrincipal": "Euroliga",
+    "visualizaciones": "96.235 visualizaciones",
+    "direccion": "0",
+    "index": "3"
+}, {
+    "detail": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/G7uwU3vp1DA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "main_thumbnail": "https://i.ytimg.com/vi/G7uwU3vp1DA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAU-EZUV-lE3pEv2RgeQPiL3i3ueQ",
+    "thumbnail_canal": "https://yt3.ggpht.com/ytc/AKedOLRnUn8mciJLCAFwIvtX3Yf3pq47iwjNDQkG4hOGKQ=s68-c-k-c0x00ffffff-no-rj",
+    "title": "One on One with Darko Peric: Walter Tavares, Real Madrid",
+    "slider": "0",
+    "canalPrincipalQuery": "euroliga",
+    "canalPrincipal": "Euroliga",
+    "visualizaciones": "26.261 visualizaciones",
+    "direccion": "0",
+    "index": "4"
+}, {
+    "detail": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/m31EHJaxwVo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "main_thumbnail": "https://i.ytimg.com/vi/m31EHJaxwVo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEY7Rs5F5WAf-lIftIBOT3nTEVQA",
+    "thumbnail_canal": "https://yt3.ggpht.com/ytc/AKedOLRnUn8mciJLCAFwIvtX3Yf3pq47iwjNDQkG4hOGKQ=s68-c-k-c0x00ffffff-no-rj",
+    "title": "Nikola Mirotic describes that Season MVP feeling",
+    "slider": "0",
+    "canalPrincipalQuery": "euroliga",
+    "canalPrincipal": "Euroliga",
+    "visualizaciones": "37.547 visualizaciones",
+    "direccion": "0",
+    "index": "5"
+}, {
+    "detail": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/XeKN5tY1sDo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "main_thumbnail": "https://i.ytimg.com/vi/XeKN5tY1sDo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCTUkTmJwlO42L1z_UWazDp93T1w",
+    "thumbnail_canal": "https://yt3.ggpht.com/ytc/AKedOLRnUn8mciJLCAFwIvtX3Yf3pq47iwjNDQkG4hOGKQ=s68-c-k-c0x00ffffff-no-rj",
+    "title": "EB ANGT Finals Round 2 Highlights: U18 Next Generation Select Team-U18 ASVEL Villeurbanne",
+    "slider": "0",
+    "canalPrincipalQuery": "euroliga",
+    "canalPrincipal": "Euroliga",
+    "visualizaciones": "44.000 visualizaciones",
+    "direccion": "0",
+    "index": "6"
+}, {
+    "detail": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CUjUz2vGnw4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "main_thumbnail": "https://i.ytimg.com/vi/CUjUz2vGnw4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmg2mzVYVOGCRJtC5pRj2757s3tg",
+    "thumbnail_canal": "https://yt3.ggpht.com/ytc/AKedOLRnUn8mciJLCAFwIvtX3Yf3pq47iwjNDQkG4hOGKQ=s68-c-k-c0x00ffffff-no-rj",
+    "title": "Efes go BACK-TO-BACK! * Today at the Final Four*",
+    "slider": "0",
+    "canalPrincipalQuery": "euroliga",
+    "canalPrincipal": "Euroliga",
+    "visualizaciones": "447 visualizaciones",
+    "direccion": "0",
+    "index": "7"
+}]

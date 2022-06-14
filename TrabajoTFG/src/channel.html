@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Hi Video</title>
+
+    <link href="css/style.css" rel="stylesheet">
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+          integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+          crossorigin="anonymous" referrerpolicy="no-referrer"/>
+
+    <script>
+        $(document).ready(function () {
+            renderChannelsComplete();
+            renderChannels();
+            channelFuera();
+        });
+    </script>
+
+</head>
+<body>
+<nav class="flex-div">
+    <div class="nav-left flex-div">
+        <img class="menu-icon" src="images/iconoMenu.png" alt="menu">
+        <a href="index.html?category=all&channel=all&page=0">
+            <img class="logo" src="images/Logotipo.png" alt="">
+        </a>
+    </div>
+
+    <div class="nav-right flex-div ocultoMovil">
+
+        <div class="redes-container">
+            <ul>
+                <li><a href="#" class="facebook"><i class="fa-brands fa-facebook fa-2x"></i></a></li>
+                <li><a href="#" class="instagram"><i class="fa-brands fa-instagram fa-2x"></i></a></li>
+                <li><a href="#" class="twitter"><i class="fa-brands fa-twitter fa-2x"></i></a></li>
+            </ul>
+
+        </div>
+    </div>
+</nav>
+<!--=======Sidebar========-->
+
+<div class="sidebar">
+    <div class="shortcut-links">
+        <a href="index.html?category=futbol&channel=all&page=0"><img src="images/futbol.png"><p>Futbol</p></a>
+        <a href="index.html?category=baloncesto&channel=all&page=0"><img src="images/baloncesto.png"><p>Baloncesto</p></a>
+        <a href="index.html?category=tennis&channel=all&page=0"><img src="images/tennis.png"><p>Tennis</p></a>
+        <a href="index.html?category=rugby&channel=all&page=0"><img src="images/rugby.png"><p>Rugby</p></a>
+        <a href="index.html?category=beisbol&channel=all&page=0"><img src="images/beisbol.png"><p>Beisbol</p></a>
+        <hr>
+    </div>
+
+    <div class="canalesActivos" id="canales">
+
+
+    </div>
+</div>
+
+<!--=======Main======-->
+
+<div class="container">
+
+    <div class="botonesHeader">
+        <a class="botonPersonalizado" href="index.html?category=all&channel=all&page=0" nombre="all" >All</a>
+
+        <a class="botonPersonalizado" href="index.html?category=futbol&channel=all&page=0" nombre="futbol" >
+                Futbol
+                <img src="images/svg/futbol.svg" class="iconoBotonPersonalizado">
+        </a>
+
+        <a class="botonPersonalizado" href="index.html?category=baloncesto&channel=all&page=0" nombre="baloncesto">
+                Baloncesto
+                <img src="images/svg/basketball.svg" class="iconoBotonPersonalizado">
+        </a>
+
+        <a class="botonPersonalizado" href="index.html?category=tennis&channel=all&page=0" nombre="tennis">
+                Tennis
+                <img src="images/svg/tennis.svg" class="iconoBotonPersonalizado">
+        </a>
+
+        <a class="botonPersonalizado" href="index.html?category=rugby&channel=all&page=0" nombre="rugby">
+                Rugby
+                <img src="images/svg/rugby.svg" class="iconoBotonPersonalizado">
+        </a>
+        <a class="botonPersonalizado" href="index.html?category=beisbol&channel=all&page=0" nombre="beisbol">
+                Beisbol
+                <img src="images/svg/baseball.svg" class="iconoBotonPersonalizado">
+        </a>
+    </div>
+
+</div>
+
+
+
+
+
+<div class="container container-fluid">
+	<div id="bannerCanal"></div>
+</div>
+
+
+<div class="container" >
+
+    <div class="" id="canalDetallado">
+
+    </div>
+
+    <div>
+        <div class="list-containerChannel" id="mosaico"></div>
+    </div>
+
+</div>
+
+
+
+<script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
+<script src="js/CargarUsuarios.js"></script>
+<script src="prueba/script.js"></script>
+</body>
+</html>
